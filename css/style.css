@@ -9,3 +9,7 @@
     top: 30px;
     left: -35px;
 }
+
+.card_style:not(last-child) {
+    margin-right: 50px !important;
+}
