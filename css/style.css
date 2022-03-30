@@ -11,5 +11,5 @@
 }
 
 .card_style:not(last-child) {
-    margin-right: 50px !important;
+    margin: 50px !important;
 }
