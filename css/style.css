@@ -10,6 +10,7 @@
     left: -35px;
 }
 
-.card_style:not(last-child) {
+
+/* .card_style:not(last-child) {
     margin: 50px !important;
-}
+} */
