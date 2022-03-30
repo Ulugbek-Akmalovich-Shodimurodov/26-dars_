@@ -1,0 +1,11 @@
+.dark-btn__toggle {
+    border: 0 !important;
+    background-color: transparent !important;
+}
+
+.search {
+    position: absolute;
+    z-index: 100;
+    top: 30px;
+    left: -35px;
+}
